@@ -31,7 +31,7 @@ To install the addon:
 
 * Settings > Add-ons > Add-on Store
 * 3 dots (upper right corner) > Repositories
-* Enter `https://github.com/dext0r/airmx` and click Add
+* Enter `https://github.com/KevinWee/airmx` and click Add
 * 3 dots (top right corner) > Check for updates > Refresh the page
 * Type `airmx` in the search and install the addon
 
