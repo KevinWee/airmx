@@ -342,7 +342,7 @@ class AirWaterDevice:
                 {
                     "cleanTime": self._settings.water_type.cleaning_time,
                     "water_type": int(self._settings.water_type),
-                    "frequencyTime": UPDATE_INTERVAL,
+                    "frequencyTime": UPDATE_DURATION,
                     "durationTime": UPDATE_DURATION,
                 },
             )
